@@ -320,4 +320,3 @@ function BlurStack()
 	this.next = null;
 }
 
-module.exports = blur;
